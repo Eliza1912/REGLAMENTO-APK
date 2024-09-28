@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;font-weight:bold;/*Negrilla*/ color: brown;
+  }
+  
+  #resultados {
+    margin-top: 20px;
+  }
+  
+  #resultados p {
+    margin-bottom: 10px;
+  }
+  
+  .lista-caliente, .lista-fria {
+    margin-top: 20px;
+  }
+  
+  .lista-caliente ul, .lista-fria ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .lista-caliente li, .lista-fria li {
+    margin-bottom: 10px;
+  }
+  body {
+    background-image: url('Fondo.jpg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
